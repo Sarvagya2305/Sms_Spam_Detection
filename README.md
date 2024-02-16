@@ -1,1 +1,1 @@
-# Sms_Spam_Detection
+# sms-spam-classifier
